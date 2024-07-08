@@ -1,0 +1,19 @@
+def age_checker():
+obtain_users_age = int(input("How old are you?"))
+x = True
+while(x== True)
+while(x == True)
+
+    if (age <= 11):
+            print("You are a Lil Kid")
+        elif(age > 11 and age <= 19):
+                print("You are a teenager")
+
+                elif(age >=20):
+                    print("You are a grown person")
+                ans = input("do  yo want to continue? ()all lowercase)")
+                if ans == "no":
+                  break
+
+  
+age _checker(age)

@@ -1,0 +1,12 @@
+.image {
+    width: 50%;
+}
+.bio{
+    text-align: center;
+    width: 100%;
+}
+
+.bio-text {
+    width: 50%;
+    margin: auto;
+}
